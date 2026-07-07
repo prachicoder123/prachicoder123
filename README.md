@@ -2,7 +2,7 @@
 
 ## 💻 Software Developer | Cybersecurity Enthusiast | AI & Python Learner
 
-I am a final-year B.Tech Computer Science and Engineering (Cyber Security) student passionate about software development, cybersecurity, artificial intelligence, and networking. I enjoy building secure, reliable, and efficient applications while continuously learning modern technologies.
+I am a final-year B.Tech Computer Science and Engineering (Cyber Security) student passionate about software development, cybersecurity, artificial intelligence, and networking. I enjoy building secure and intelligent applications.
 
 ---
 
@@ -17,7 +17,7 @@ St. Vincent Pallotti College of Engineering & Technology, Nagpur
 
 ## 🎯 Career Objective
 
-To build a successful career in software development and cybersecurity by applying programming, networking, and security skills to develop secure, reliable, and efficient applications while contributing to protecting systems and data from cyber threats.
+To build a successful career in software development and cybersecurity by applying programming, networking, and security skills to develop secure, reliable, and efficient applications while contributing to innovative solutions.
 
 ---
 
@@ -30,23 +30,21 @@ To build a successful career in software development and cybersecurity by applyi
 ### Cybersecurity
 - Network Security
 - Cryptography
+- Ethical Hacking
+- Penetration Testing
 
 ### Networking
 - TCP/IP
 - OSI Model
 - Packet Analysis
+- Network Protocols
 
-### Tools
-- Nmap
-- Wireshark
-- Metasploit
-- Git
-- GitHub
-
-### Development Tools
-- Visual Studio Code
-- Jupyter Notebook
-- Google Colab
+### Tools & Frameworks
+- **Security Tools:** Nmap, Wireshark, Metasploit, Burp Suite
+- **Development:** Git, GitHub, Visual Studio Code
+- **Data Science:** Jupyter Notebook, Google Colab
+- **Web Framework:** Flask
+- **ML/Data Libraries:** Scikit-learn, Pandas, Matplotlib
 
 ### Operating Systems
 - Windows
@@ -67,15 +65,17 @@ To build a successful career in software development and cybersecurity by applyi
 
 An AI-powered Intrusion Detection System that monitors live network traffic and detects suspicious activities using Machine Learning.
 
-**Tech Stack**
+**Tech Stack:**
 - Python
-- Flask
-- Scapy
-- Pandas
-- Scikit-learn
-- Random Forest
-- Matplotlib
+- Flask (Web Framework)
+- Scapy (Network Analysis)
+- Pandas (Data Processing)
+- Scikit-learn (Machine Learning)
+- Random Forest Algorithm
+- Matplotlib (Data Visualization)
 - NSL-KDD Dataset
+
+**Repository:** [View on GitHub](https://github.com/prachicoder123)
 
 ---
 
@@ -83,10 +83,13 @@ An AI-powered Intrusion Detection System that monitors live network traffic and 
 
 Developed a machine learning-based application to detect deepfake audio using real-time voice analysis.
 
-**Tech Stack**
+**Tech Stack:**
 - Python
 - Machine Learning
-- Audio Processing
+- Audio Processing Libraries
+- Deep Learning Models
+
+**Repository:** [View on GitHub](https://github.com/prachicoder123)
 
 ---
 
@@ -94,10 +97,14 @@ Developed a machine learning-based application to detect deepfake audio using re
 
 Implemented an AES-based file encryption and decryption tool with password protection to ensure secure data storage.
 
-**Tech Stack**
+**Tech Stack:**
 - Python
-- Cryptography
+- Cryptography Libraries (PyCryptodome)
 - C++
+- AES Encryption Algorithm
+- Password Hashing
+
+**Repository:** [View on GitHub](https://github.com/prachicoder123)
 
 ---
 
@@ -106,47 +113,52 @@ Implemented an AES-based file encryption and decryption tool with password prote
 ### Technical Member
 **Cyber Security Forum**
 
-- Participated in cybersecurity workshops.
-- Collaborated on security awareness activities.
-- Gained hands-on experience with ethical hacking and network security tools.
+- Participated in cybersecurity workshops and seminars
+- Collaborated on security awareness activities and campaigns
+- Gained hands-on experience with ethical hacking and network security tools
+- Contributed to awareness programs on secure coding practices
 
 ---
 
 ## 🏆 Achievements
 
-- Coordinated technical events.
-- Conducted a Linux Commands Workshop.
-- Organized a Hackathon as a technical team member.
+- Coordinated technical events and seminars
+- Conducted a Linux Commands Workshop for 50+ participants
+- Organized a Hackathon as a technical team member
+- Actively participated in CTF (Capture The Flag) competitions
 
 ---
 
 ## 📚 Currently Learning
 
-- Artificial Intelligence
-- Machine Learning
-- Secure Software Development
-- Cloud Computing
-- Python Development
-- Advanced Cybersecurity
+- Artificial Intelligence & Machine Learning
+- Secure Software Development Practices
+- Cloud Computing (AWS, Azure)
+- Advanced Python Development
+- Advanced Cybersecurity & Zero Trust Architecture
+- DevSecOps
 
 ---
 
 ## 📫 Connect with Me
 
-📧 Email: **prachivk30@gmail.com**
+📧 **Email:** prachivk30@gmail.com
 
-💼 LinkedIn: **https://linkedin.com/in/prachi-khutarkar-6a402b2b7**
+💼 **LinkedIn:** [prachi-khutarkar-6a402b2b7](https://linkedin.com/in/prachi-khutarkar-6a402b2b7)
+
+🐙 **GitHub:** [prachicoder123](https://github.com/prachicoder123)
 
 ---
 
 ## 🌟 Career Interests
 
 - Software Engineering
-- Cybersecurity
-- Artificial Intelligence
+- Cybersecurity & Ethical Hacking
+- Artificial Intelligence & Machine Learning
 - Python Development
 - Network Security
 - Backend Development
+- Cloud Security
 
 ---
 
