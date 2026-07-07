@@ -1,19 +1,73 @@
-# AI-Based Network Monitoring and Intrusion Detection System
+# Hi 👋, I'm Prachi Khutarkar
 
-An AI-powered Intrusion Detection System (IDS) that monitors live network traffic and detects suspicious activities using Machine Learning. The system captures network packets, analyzes traffic patterns, predicts potential attacks, and displays alerts through a web dashboard.
+## 💻 Software Developer | Cybersecurity Enthusiast | AI & Python Learner
 
-## 🚀 Features
+I am a final-year B.Tech Computer Science and Engineering (Cyber Security) student passionate about software development, cybersecurity, artificial intelligence, and networking. I enjoy building secure, reliable, and efficient applications while continuously learning modern technologies.
 
-- Real-time network packet capture
-- Live traffic monitoring
-- AI-based attack detection
-- Suspicious activity alerts
-- Interactive Flask dashboard
-- Traffic analysis and visualization
-- Machine Learning using Random Forest
+---
 
-## 🛠️ Tech Stack
+## 👩‍🎓 Education
 
+**B.Tech in Computer Science and Engineering (Cyber Security)**  
+St. Vincent Pallotti College of Engineering & Technology, Nagpur
+
+**CGPA:** 9.2
+
+---
+
+## 🎯 Career Objective
+
+To build a successful career in software development and cybersecurity by applying programming, networking, and security skills to develop secure, reliable, and efficient applications while contributing to protecting systems and data from cyber threats.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- C++
+- Python
+
+### Cybersecurity
+- Network Security
+- Cryptography
+
+### Networking
+- TCP/IP
+- OSI Model
+- Packet Analysis
+
+### Tools
+- Nmap
+- Wireshark
+- Metasploit
+- Git
+- GitHub
+
+### Development Tools
+- Visual Studio Code
+- Jupyter Notebook
+- Google Colab
+
+### Operating Systems
+- Windows
+- Linux (Kali Linux)
+
+### Core Concepts
+- Data Structures
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Operating Systems
+- Computer Networks
+
+---
+
+# 🚀 Projects
+
+## 🔹 AI-Based Network Monitoring and Intrusion Detection System
+
+An AI-powered Intrusion Detection System that monitors live network traffic and detects suspicious activities using Machine Learning.
+
+**Tech Stack**
 - Python
 - Flask
 - Scapy
@@ -21,98 +75,79 @@ An AI-powered Intrusion Detection System (IDS) that monitors live network traffi
 - Scikit-learn
 - Random Forest
 - Matplotlib
-- HTML, CSS
 - NSL-KDD Dataset
 
-## 📂 Project Structure
+---
 
-```
-AI_IDS_Project/
-│── app.py
-│── packet_sniffer.py
-│── traffic_analyzer.py
-│── attack_detector.py
-│── ml_model.py
-│── alerts.py
-│
-├── data/
-│   ├── traffic.csv
-│   └── alerts.csv
-│
-├── model/
-│   └── random_forest.pkl
-│
-├── templates/
-│   ├── dashboard.html
-│   └── alerts.html
-│
-├── static/
-│   └── graphs/
-│
-└── requirements.txt
-```
+## 🔹 Deepfake Voice Detection
 
-## ⚙️ Installation
+Developed a machine learning-based application to detect deepfake audio using real-time voice analysis.
 
-1. Clone the repository
+**Tech Stack**
+- Python
+- Machine Learning
+- Audio Processing
 
-```bash
-git clone https://github.com/your-username/AI_IDS_Project.git
-```
+---
 
-2. Navigate to the project folder
+## 🔹 Secure File Encryption & Decryption Tool
 
-```bash
-cd AI_IDS_Project
-```
+Implemented an AES-based file encryption and decryption tool with password protection to ensure secure data storage.
 
-3. Install dependencies
+**Tech Stack**
+- Python
+- Cryptography
+- C++
 
-```bash
-pip install -r requirements.txt
-```
+---
 
-4. Run the application
+## 💼 Experience
 
-```bash
-python app.py
-```
+### Technical Member
+**Cyber Security Forum**
 
-5. Open your browser and visit
+- Participated in cybersecurity workshops.
+- Collaborated on security awareness activities.
+- Gained hands-on experience with ethical hacking and network security tools.
 
-```
-http://127.0.0.1:5000
-```
+---
 
-## 📊 How It Works
+## 🏆 Achievements
 
-1. Captures live network packets using Scapy.
-2. Extracts packet information such as source IP, destination IP, protocol, and packet size.
-3. Stores traffic data for analysis.
-4. Uses a trained Random Forest model to classify normal and malicious traffic.
-5. Displays detected threats and network statistics on the Flask dashboard.
+- Coordinated technical events.
+- Conducted a Linux Commands Workshop.
+- Organized a Hackathon as a technical team member.
 
-## 📁 Dataset
+---
 
-- NSL-KDD Dataset
+## 📚 Currently Learning
 
-## 📌 Future Improvements
+- Artificial Intelligence
+- Machine Learning
+- Secure Software Development
+- Cloud Computing
+- Python Development
+- Advanced Cybersecurity
 
-- Deep Learning-based attack detection
-- Real-time email notifications
-- Multi-class attack classification
-- Database integration
-- Docker deployment
-- Cloud deployment
-- User authentication
+---
 
-## 👩‍💻 Author
+## 📫 Connect with Me
 
-**Prachi Khutarkar**
+📧 Email: **prachivk30@gmail.com**
 
-- Email: prachivk30@gmail.com
-- LinkedIn: https://linkedin.com/in/prachi-khutarkar-6a402b2b7
+💼 LinkedIn: **https://linkedin.com/in/prachi-khutarkar-6a402b2b7**
 
-## 📄 License
+---
 
-This project is created for educational and learning purposes.
+## 🌟 Career Interests
+
+- Software Engineering
+- Cybersecurity
+- Artificial Intelligence
+- Python Development
+- Network Security
+- Backend Development
+
+---
+
+⭐ *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
