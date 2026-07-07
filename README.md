@@ -24,38 +24,53 @@ To build a successful career in software development and cybersecurity by applyi
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-- C++
-- Python
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Cybersecurity
-- Network Security
-- Cryptography
-- Ethical Hacking
-- Penetration Testing
+![Network Security](https://img.shields.io/badge/Network%20Security-FF6B6B?style=flat-square&logo=shield&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-4B8BBE?style=flat-square&logo=lock&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-FF4444?style=flat-square&logo=target&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Pen%20Testing-FF6B35?style=flat-square&logo=bug&logoColor=white)
 
 ### Networking
-- TCP/IP
-- OSI Model
-- Packet Analysis
-- Network Protocols
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-009999?style=flat-square&logo=cloud&logoColor=white)
+![OSI Model](https://img.shields.io/badge/OSI%20Model-0066CC?style=flat-square&logo=network&logoColor=white)
+![Packet Analysis](https://img.shields.io/badge/Packet%20Analysis-FF9800?style=flat-square&logo=analytics&logoColor=white)
 
 ### Tools & Frameworks
-- **Security Tools:** Nmap, Wireshark, Metasploit, Burp Suite
-- **Development:** Git, GitHub, Visual Studio Code
-- **Data Science:** Jupyter Notebook, Google Colab
-- **Web Framework:** Flask
-- **ML/Data Libraries:** Scikit-learn, Pandas, Matplotlib
+**Security Tools:**
+![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=flat-square&logo=wifi&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-EC1C24?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6B00?style=flat-square&logo=bug&logoColor=white)
+
+**Development:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**Web & ML:**
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+
+**Data Science:**
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
 ### Operating Systems
-- Windows
-- Linux (Kali Linux)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 ### Core Concepts
-- Data Structures
-- Object-Oriented Programming (OOP)
-- Database Management Systems (DBMS)
-- Operating Systems
-- Computer Networks
+- 📊 Data Structures
+- 🏗️ Object-Oriented Programming (OOP)
+- 💾 Database Management Systems (DBMS)
+- 🖥️ Operating Systems
+- 🌐 Computer Networks
 
 ---
 
@@ -66,11 +81,12 @@ To build a successful career in software development and cybersecurity by applyi
 An AI-powered Intrusion Detection System that monitors live network traffic and detects suspicious activities using Machine Learning.
 
 **Tech Stack:**
-- Python
-- Flask (Web Framework)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
 - Scapy (Network Analysis)
-- Pandas (Data Processing)
-- Scikit-learn (Machine Learning)
 - Random Forest Algorithm
 - Matplotlib (Data Visualization)
 - NSL-KDD Dataset
@@ -84,7 +100,9 @@ An AI-powered Intrusion Detection System that monitors live network traffic and 
 Developed a machine learning-based application to detect deepfake audio using real-time voice analysis.
 
 **Tech Stack:**
-- Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+
 - Machine Learning
 - Audio Processing Libraries
 - Deep Learning Models
@@ -98,9 +116,11 @@ Developed a machine learning-based application to detect deepfake audio using re
 Implemented an AES-based file encryption and decryption tool with password protection to ensure secure data storage.
 
 **Tech Stack:**
-- Python
-- Cryptography Libraries (PyCryptodome)
-- C++
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-4B8BBE?style=flat-square&logo=lock&logoColor=white)
+
+- PyCryptodome
 - AES Encryption Algorithm
 - Password Hashing
 
