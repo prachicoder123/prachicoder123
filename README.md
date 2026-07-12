@@ -134,8 +134,7 @@ Implemented an AES-based file encryption and decryption tool with password prote
 - Secure Software Development Practices
 - Cloud Computing (AWS, Azure)
 - Advanced Python Development
-- Advanced Cybersecurity & Zero Trust Architecture
-- DevSecOps
+- Advanced Cybersecurity 
 
 ---
 
