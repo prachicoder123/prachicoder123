@@ -128,27 +128,6 @@ Implemented an AES-based file encryption and decryption tool with password prote
 
 ---
 
-## 💼 Experience
-
-### Technical Member
-**Cyber Security Forum**
-
-- Participated in cybersecurity workshops and seminars
-- Collaborated on security awareness activities and campaigns
-- Gained hands-on experience with ethical hacking and network security tools
-- Contributed to awareness programs on secure coding practices
-
----
-
-## 🏆 Achievements
-
-- Coordinated technical events and seminars
-- Conducted a Linux Commands Workshop for 50+ participants
-- Organized a Hackathon as a technical team member
-- Actively participated in CTF (Capture The Flag) competitions
-
----
-
 ## 📚 Currently Learning
 
 - Artificial Intelligence & Machine Learning
